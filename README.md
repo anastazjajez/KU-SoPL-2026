@@ -15,7 +15,7 @@ solutions/task_<your_id>.py
 Replace `<your_id>` with your student ID. If your ID contains a `-ex` suffix, the hyphen is replaced with an underscore in the filename (e.g., exchange student `48409-ex` → file `task_48409_ex.py`).
 
 ### ⭐ Before You Start — GitHub Setup (Required)
-
+0. **Create** a free GitHub account, if you do not have any 
 1. **Follow** the instructor on GitHub: [github.com/KarolChlasta](https://github.com/KarolChlasta)
 2. **Star** this repository (button in the top-right corner of the repo page).
 3. **Fork** this repository to your own GitHub account:
